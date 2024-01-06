@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eFH0yt/+ZRa5zyUdk7ya/9zMMzZf1s7FSzI2iBm2EXp/j7q7l1t6RSCHS3KUDO8T6s2rUWmQfECgrH0J4MphGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mainsys.DESKTOP-MIN09L7\\source\\repos\\WinKey\\WinKey\\WinKey.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mainsys.DESKTOP-MIN09L7\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Mainsys.DESKTOP-MIN09L7\\.nuget\\packages\\textcopy\\6.2.1\\textcopy.6.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
